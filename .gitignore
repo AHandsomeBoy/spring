@@ -1,0 +1,21 @@
+### Eclipse
+.settings
+.project
+.classpath
+.factorypath
+### Mac
+.DS_Store
+**/.DS_Store
+### html gen
+html/**
+### https://raw.github.com/github/gitignore/a4ec7f03ca5ae0bf09fad42c0fb7d1e8346bcf25/Maven.gitignore
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
