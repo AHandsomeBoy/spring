@@ -8,16 +8,18 @@
 **/.DS_Store
 ### html gen
 html/**
+### Intellij IDEA
+*.iml
+.idea
 ### https://raw.github.com/github/gitignore/a4ec7f03ca5ae0bf09fad42c0fb7d1e8346bcf25/Maven.gitignore
 target/
 **/target/
+**/test/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 *.jar
 *.war
-*.iml
-.idea
 pom.xml.next
 release.properties
 dependency-reduced-pom.xml
