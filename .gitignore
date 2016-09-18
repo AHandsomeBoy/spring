@@ -14,6 +14,9 @@ target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
+*.jar
+*.war
+
 pom.xml.next
 release.properties
 dependency-reduced-pom.xml
