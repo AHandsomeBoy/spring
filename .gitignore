@@ -9,7 +9,6 @@
 ### html gen
 html/**
 ### Intellij IDEA
-*.iml
 .idea
 ### https://raw.github.com/github/gitignore/a4ec7f03ca5ae0bf09fad42c0fb7d1e8346bcf25/Maven.gitignore
 target/
@@ -25,3 +24,4 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+*.iml
